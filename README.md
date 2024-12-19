@@ -1,4 +1,4 @@
-Cross-platform latency tester for latency measurers
+Cross-platform tester for latency measurers
 
 Usage: Left click in window
 
